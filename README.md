@@ -1,1 +1,2 @@
 # Final-Project-Matamoros-
+I started this report hoping to apply Runge-Kutta and Lmm methods to the Chua Circuit. However, I found I was investing an inordinate amount of time just trying to get a grip on the physics and the different forms of the ODE's involved and thought it might be safer to instead change to a simpler topic. So I shifted my attention to the dripping faucet problem and commenced work on this as shown above. A new project report is included as well 
